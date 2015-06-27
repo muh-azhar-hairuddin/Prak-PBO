@@ -1,8 +1,9 @@
+package Praktikum_2;
 
 public class nilaiDefault {
 	static String \u0073\u0074\u0072 = "PBO Praktikum 2, Muhammad Azhar Hairuddin (60200112029)";
 	static boolean bool;
-	static long lng=2;
+	static long lng=67;
 	static short sh;
 	static int i;
 	

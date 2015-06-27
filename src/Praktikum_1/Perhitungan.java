@@ -1,3 +1,4 @@
+package Praktikum_1;
 
 public class Perhitungan {
 	static int c;
